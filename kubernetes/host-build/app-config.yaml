@@ -1,0 +1,12 @@
+app:
+  baseUrl: http://localhost
+
+organization:
+  name: Sparta Plataform Engineer
+
+backend:
+  baseUrl: http://localhost
+  listen:
+    port: 7007
+  cors:
+    origin: http://localhost
